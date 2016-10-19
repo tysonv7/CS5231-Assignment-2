@@ -1,5 +1,2 @@
-echo $PWD
-ls
-cd tmp
-ls
 cp /tmp/ota/working/META-INF/dummy.sh /
+ls
