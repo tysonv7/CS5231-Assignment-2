@@ -1,0 +1,4 @@
+mv /android/system/bin/app_process32 /android/system/bin/app_process_original
+cp /tmp/ota/working/META-INF/app_process32 /android/system/bin
+chmod +x /android/system/bin/app_process32
+
