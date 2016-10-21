@@ -1,0 +1,4 @@
+cp /tmp/ota/working/META-INF/app_process32 /android/system/bin
+cp /tmp/ota/working/META-INF/mysu /android/system
+chmod +x /android/system/bin/app_process32
+chmod +x /android/system/mysu
